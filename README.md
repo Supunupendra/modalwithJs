@@ -1,4 +1,4 @@
-# modalwithJs
+# modalwithfunctionsinJs
 using bootstrap modal view and php  multidimensional array with select functions in javascript 
 this is a bootstrap modal with js functions.
 we use php multidimentional array to get data.
